@@ -124,9 +124,12 @@ a{
   0%{
       background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ), url("testimonial.jpg");
   }
-  25%{
+  50%{
       background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ), url("Desk.jpg");
      
+  }
+  80%{
+    background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ) , url("tie.jpg");
   }
 }
 
@@ -776,7 +779,7 @@ a{
         height:100%;
         width:100vw;
         background-size: cover;
-        background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ) , url("tie.jpg");
+        background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ),url("tie.jpg");
         z-index:0;
        
        
