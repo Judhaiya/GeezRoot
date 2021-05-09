@@ -483,7 +483,7 @@ a{
     .background-wrapper{
         width:100vw;
         height:100%;
-        
+        background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ) , url("tie.jpg");
         background-size: cover;
     }
     .open-btn{
@@ -776,6 +776,7 @@ a{
         height:100%;
         width:100vw;
         background-size: cover;
+        background-image: linear-gradient( rgba(9,9,121,0.4) , rgba(0,212,255,0.4) ) , url("tie.jpg");
         z-index:0;
        
        
